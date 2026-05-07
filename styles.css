@@ -1,0 +1,16 @@
+body {background-color: lightslategray;}
+
+h1 {color: skyblue;}
+h2 {color: skyblue;}
+h3 {color: aliceblue;}
+
+   hr {background-color: lightslategray;
+        border-style: dotted none none;
+        height: 0px;
+        width: 10%;
+        border-width: 5px;
+        border-color: rgb(216, 228, 228);}
+
+        img {height: 230px;
+
+        }
